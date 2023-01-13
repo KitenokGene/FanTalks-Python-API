@@ -1,5 +1,5 @@
 # FanTalks-Api
-Simple Python FanTalks api
+Simple Python FanTalks api (first maybe)
 ### How to get token?
 - Open [FanTalks Dashboard](https://fantalks.io/dashboard)
 ![f12](https://github.com/KitenokGene/FanTalks-Api/blob/main/Screenshots/f12_pressed.png?raw=true)
